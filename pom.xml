@@ -19,9 +19,6 @@
 		    <artifactId>hibernate-commons-annotations</artifactId>
 		    <version>5.0.1.Final</version>
 		</dependency>
-
-				
-
 	</dependencies>
 
 </project>
