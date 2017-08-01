@@ -42,5 +42,9 @@ public class Person implements Serializable {
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
+	
+	public void myMethod(final String strName) {
+		System.out.println("name = " + strName);	
+	}
 
 }
