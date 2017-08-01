@@ -47,8 +47,4 @@ public class Person implements Serializable {
 		System.out.println("name = " + strName);	
 	}
 
-	public void myMethod(String strName) {
-		System.out.println(strName);
-	}
-
 }
