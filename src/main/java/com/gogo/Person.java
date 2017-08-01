@@ -43,4 +43,8 @@ public class Person implements Serializable {
 		this.lastName = lastName;
 	}
 
+	public void myMethod(String strName) {
+		System.out.println(strName);
+	}
+
 }
